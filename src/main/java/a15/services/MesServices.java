@@ -82,7 +82,7 @@ public class MesServices {
 		return clientsParCritere;
 	}
 	
-	// doing
+	// tirer ou deposer de l'argent
 	@PUT
 	@Path("compte/{operation}/{id}/{montant}")
 	@Produces(MediaType.TEXT_PLAIN)
