@@ -1,6 +1,6 @@
-# RESTful_API_and_Hibernate
+# Plateforme de microservice de requête et d’opération des comptes bancaires
 
-## this project is for RESTful_API and hiberant
+## Technologies
 ###  JAX-RS: Jersey
 ###  ORM: Hibernate
 ###  Cloud DB: AlwaysData MySQL
